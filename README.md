@@ -1,30 +1,19 @@
 # FS_FOSI
 Feasibility-Search-for-a-Fractional-Order-Stability-Inequality
-
+   - 搜索分数阶不等式的可行参数
 ## 问题
 
 - 一个18 维、连续、非线性、非凸的**可行性问题**。
 
-- 寻找满足
-
-$$
-0<\xi<\eta<T,\quad T\ge1,\quad \lambda>0,\quad \sigma\neq 0,
-$$
-
-$$
-0<\alpha,\beta<1,\quad 1<\alpha+\beta<2,\quad \gamma>0,\quad p_1,p_2>0,
-$$
-
-的参数，使得
+- 寻找满足 $0<\xi<\eta<T,  T\ge1, \lambda>0,  \sigma \neq 0,$ 并且满足 $0<\alpha,\beta<1,\quad 1<\alpha+\beta<2,\quad \gamma>0,\quad p_1,p_2>0,$ 的参数，使得
 
 $$
 (\varphi_1 T^\alpha+\Phi_1)+(\varphi_2 T^{\alpha+\gamma}+\Phi_2)p_2 + (\varphi_3 T^{\alpha+\beta}+\Phi_3)p_1
 <1.
 $$
 
-
-
 其中 $\varphi_i,\Phi_i,\Delta,A_i,\vartheta_{ij}$ 的完整定义为：
+
 $$
 p_{11}=b_1+d_1+\frac{(c_1-\lambda d_1)T^\alpha}{\Gamma(\alpha+1)},
 $$
@@ -93,8 +82,6 @@ $$
 \vartheta_{32}=|\lambda d_2-c_2|\,\varphi_2 \eta^{\alpha+\gamma}
 +|d_2|\,\varphi_4 \eta^\gamma.
 $$
-
-## Aggregated terms
 
 $$
 \Phi_1=A_1|\lambda d_1-c_1|\varphi_1 T^\alpha
