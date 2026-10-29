@@ -5,7 +5,7 @@ Feasibility-Search-for-a-Fractional-Order-Stability-Inequality
 
 - 一个18 维、连续、非线性、非凸的**可行性问题**。
 
-寻找满足
+- 寻找满足
 
 $$
 0<\xi<\eta<T,\quad T\ge1,\quad \lambda>0,\quad \sigma\ne0,
@@ -23,8 +23,8 @@ $$
 $$
 
 
-其中 $\varphi_i,\Phi_i,\Delta,A_i,\vartheta_{ij}$ 的完整定义为：
 
+其中 $\varphi_i,\Phi_i,\Delta,A_i,\vartheta_{ij}$ 的完整定义为：
 $$
 p_{11}=b_1+d_1+\frac{(c_1-\lambda d_1)T^\alpha}{\Gamma(\alpha+1)},
 $$
@@ -93,6 +93,8 @@ $$
 \vartheta_{32}=|\lambda d_2-c_2|\,\varphi_2 \eta^{\alpha+\gamma}
 +|d_2|\,\varphi_4 \eta^\gamma.
 $$
+
+## Aggregated terms
 
 $$
 \Phi_1=A_1|\lambda d_1-c_1|\varphi_1 T^\alpha
