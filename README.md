@@ -8,7 +8,7 @@ Feasibility-Search-for-a-Fractional-Order-Stability-Inequality
 - 寻找满足
 
 $$
-0<\xi<\eta<T,\quad T\ge1,\quad \lambda>0,\quad \sigma\ne0,
+0<\xi<\eta<T,\quad T\ge1,\quad \lambda>0,\quad \sigma\neq 0,
 $$
 
 $$
