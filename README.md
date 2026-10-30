@@ -1,6 +1,6 @@
 # FS_FOSI
 Feasibility-Search-for-a-Fractional-Order-Stability-Inequality
-   - 搜索Ulam–Hyers stability成立的可行参数
+   - 搜索**Ulam–Hyers stability**成立的可行参数
 ## 问题
 
 - 一个18 维、连续、非线性、非凸的**可行性问题**。
@@ -52,33 +52,33 @@ $$
 
 
 $$
-\vartheta_{11}=|\lambda d_1-c_1|\,\varphi_3 T^{\alpha+\beta}
-+|d_1|\,\varphi_5 T^\beta,
+\vartheta_{11}=|\lambda d_1-c_1|\varphi_3 T^{\alpha+\beta}
++|d_1|\varphi_5 T^\beta,
 $$
 
 $$
-\vartheta_{12}=|\lambda d_1-c_1|\,\varphi_2 T^{\alpha+\gamma}
-+|d_1|\,\varphi_4 T^\gamma,
+\vartheta_{12}=|\lambda d_1-c_1|\varphi_2 T^{\alpha+\gamma}
++|d_1|\varphi_4 T^\gamma,
 $$
 
 $$
-\vartheta_{21}=|\lambda b_2-a_2|\,\varphi_3 \xi^{\alpha+\beta}
-+|b_2|\,\varphi_5 \xi^\beta,
+\vartheta_{21}=|\lambda b_2-a_2|\varphi_3 \xi^{\alpha+\beta}
++|b_2|\varphi_5 \xi^\beta,
 $$
 
 $$
-\vartheta_{22}=|\lambda b_2-a_2|\,\varphi_2 \xi^{\alpha+\gamma}
-+|b_2|\,\varphi_4 \xi^\gamma,
+\vartheta_{22}=|\lambda b_2-a_2|\varphi_2 \xi^{\alpha+\gamma}
++|b_2|\varphi_4 \xi^\gamma,
 $$
 
 $$
-\vartheta_{31}=|\lambda d_2-c_2|\,\varphi_3 \eta^{\alpha+\beta}
-+|d_2|\,\varphi_5 \eta^\beta,
+\vartheta_{31}=|\lambda d_2-c_2|\varphi_3 \eta^{\alpha+\beta}
++|d_2|\varphi_5 \eta^\beta,
 $$
 
 $$
-\vartheta_{32}=|\lambda d_2-c_2|\,\varphi_2 \eta^{\alpha+\gamma}
-+|d_2|\,\varphi_4 \eta^\gamma.
+\vartheta_{32}=|\lambda d_2-c_2|\varphi_2 \eta^{\alpha+\gamma}
++|d_2|\varphi_4 \eta^\gamma.
 $$
 
 $$
