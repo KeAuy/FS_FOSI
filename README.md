@@ -10,8 +10,8 @@ Feasibility-Search-for-a-Fractional-Order-Stability-Inequality
 $$
 \boxed{
 (\varphi_1 T^\alpha+\Phi_1)
-+(\varphi_3 T^{\alpha+\beta}+\Phi_3)\,p_1
-+(\varphi_2 T^{\alpha+\gamma}+\Phi_2)\,p_2
++(\varphi_3 T^{\alpha+\beta}+\Phi_3)p_1
++(\varphi_2 T^{\alpha+\gamma}+\Phi_2)p_2
 <1.
 }
 $$
@@ -45,7 +45,7 @@ $$
 $$
 \varphi_1=\frac{|\lambda|}{\Gamma(\alpha+1)},\qquad
 \varphi_2=\frac{|\sigma|}{\Gamma(\alpha+\gamma+1)},\qquad
-\varphi_3=\frac{1}{\Gamma(\alpha+\beta+1)},
+\varphi_3=\frac{1}{\Gamma(\alpha+\beta+1)},\qquad
 \varphi_4=\frac{|\sigma|}{\Gamma(\gamma+1)},\qquad
 \varphi_5=\frac{1}{\Gamma(\beta+1)}.
 $$
