@@ -1,6 +1,6 @@
 # FS_FOSI
 Feasibility-Search-for-a-Fractional-Order-Stability-Inequality
-   - 搜索分数阶不等式的可行参数
+   - 搜索分数阶不等式成立的可行参数
 ## 问题
 
 - 一个18 维、连续、非线性、非凸的**可行性问题**。
@@ -12,7 +12,7 @@ $$
 <1.
 $$
 
-其中 $\varphi_i,\Phi_i,\Delta,A_i,\vartheta_{ij}$ 的完整定义为：
+其中 $\varphi_i,\Phi_i,\Delta,A_i,\vartheta_{ij}$ 的定义为：
 
 $$
 p_{11}=b_1+d_1+\frac{(c_1-\lambda d_1)T^\alpha}{\Gamma(\alpha+1)},
